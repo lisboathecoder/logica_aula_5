@@ -1,8 +1,8 @@
-let nota = 100
+let nota = 100;
 
-if (nota >= 60 & nota <=100) {
-    console.log("Aprovado!")
+if (nota >= 60 & nota <= 100) {
+    console.log("Aprovado!");
 } else {
-    console.log("Reprovado!")
+    console.log("Reprovado!");
 }
 

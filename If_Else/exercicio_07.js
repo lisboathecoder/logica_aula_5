@@ -1,4 +1,4 @@
-let salario = 2000
+let salario = 2000;
 let desconto; 
 
 if (salario >= 2000 ){

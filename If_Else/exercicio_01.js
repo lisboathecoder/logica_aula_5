@@ -1,9 +1,9 @@
-let num = 10
+let num = 10;
 
 if (num > 0) {
-    console.log(`Este número é postivo`)
+    console.log(`Este número é postivo`);
 } else if (num < 0) {
-    console.log(`Este número é negativo`)
+    console.log(`Este número é negativo`);
 } else {
-    console.log(`Este número é igual a 0`)
+    console.log(`Este número é igual a 0`);
 }

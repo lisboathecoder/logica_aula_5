@@ -1,8 +1,8 @@
-let a = 1 
-let b = 2
+let a = 10;
+let b = 13;
 
-let soma = 0
+let soma = 0;
 
-soma = a + b
+soma = a + b;
 
-console.log(`O resultado da soma é ${soma}!`)
+console.log(`O resultado da soma é ${soma}!`);

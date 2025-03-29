@@ -17,5 +17,5 @@ switch (true) {
         console.log("E");
         break;
     default:
-        console.log("Número inválido.");
+        console.log("Nota inválido.");
 }

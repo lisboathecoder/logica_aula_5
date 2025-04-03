@@ -1,5 +1,5 @@
 let num1 = 10
-let num2 = 20
+let num2 = 20;
 let calculo = "multiplicação"
 
 switch (calculo) {
